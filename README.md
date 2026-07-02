@@ -4,7 +4,7 @@ A simple Python project that demonstrates basic counting operations.
 
 ## Project Description
 
-This project contains a Python script that counts up from 1 to 1002, then counts down from 1002 back to 1. It's a straightforward example of loops and sequential programming in Python.
+This project contains a Python script that counts up from 1 to 100, then counts down from 100 back to 1. It's a straightforward example of loops and sequential programming in Python.
 
 ## Files
 
@@ -23,24 +23,24 @@ python3 count.py
 ```
 
 The script will:
-1. Count up from 1 to 1002
+1. Count up from 1 to 100
 2. Display a blank line
-3. Count down from 1002 to 1
+3. Count down from 100 to 1
 4. Print "Done!" when complete
 
 ## Example Output
 
 ```
-Counting up to 1003...
+Counting up to 100...
 1
 2
 3
 ...
-1002
+100
 
-Counting down from 1002...
-1002
-1001
+Counting down from 100...
+100
+99
 ...
 1
 Done!
